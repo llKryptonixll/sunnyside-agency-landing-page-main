@@ -1020,6 +1020,14 @@ video {
     width: 300px;
   }
 
+  .sm\:justify-self-start {
+    justify-self: start;
+  }
+
+  .sm\:justify-self-center {
+    justify-self: center;
+  }
+
   .sm\:whitespace-pre-line {
     white-space: pre-line;
   }
